@@ -1,0 +1,8 @@
+To run the project you will need these libraries:
+numpy
+pandas 
+matplotlib
+
+
+Simply open the jupyter notebook and run the cells
+
